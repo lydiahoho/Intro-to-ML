@@ -1,12 +1,12 @@
 # Environment setting 
-####Python version
+#### Python version
 Python 3.8
-####Hardware:
+#### Hardware:
 NVidia GeForce GTX 1080 Ti, cuda 10.0
-####Install packages
+#### Install packages
 ```pip install -r requirements.txt -f https://download.pytorch.org/whl/torch_stable.html```
 
-####Evalution
+#### Evalution
 1. Download best.pt and put it in ```./training/put_model```. And put test data into the project directory.
  ```
  /final
