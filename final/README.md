@@ -20,5 +20,4 @@ NVidia GeForce GTX 1080 Ti, cuda 10.0
  ├── requirements.txt 
  ├── ...
  ```
-2. Run ```python 110550080_inference.py```
-   Output will be ```110550080_submission.csv```
+2. Run ```python 110550080_inference.py```.  Output will be ```110550080_submission.csv```
